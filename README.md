@@ -1,1 +1,1 @@
-[Check out](https://wick19.github.io/resume/)
+Resume : [Check out](https://wick19.github.io/resume/)
